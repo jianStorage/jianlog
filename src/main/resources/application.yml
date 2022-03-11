@@ -1,0 +1,12 @@
+# 端口
+server:
+  port: 8003
+
+spring:
+  application:
+    # 应用名称
+    name: jianlog
+  profiles:
+    # 使用的配置文件
+    active: dev
+
